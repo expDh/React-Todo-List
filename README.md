@@ -1,6 +1,6 @@
 React Todo-List.
 
-[en] A to-do list that shows how many cases there are and which ones have been selected. There is a save in the local storage. 
+[en] A to-do list that shows how many cases there are and which ones have been selected. There is a save in the local storage.<br>
 [ru] Список дел, в котором видно сколько всего дел и какие выбраны. Сохраняется в локальном хранилище.
 
 ---
